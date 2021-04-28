@@ -18,7 +18,7 @@
             {
                
                     list.Add(element.Text);
-
+                //Return List
             }
             return list;
         }
