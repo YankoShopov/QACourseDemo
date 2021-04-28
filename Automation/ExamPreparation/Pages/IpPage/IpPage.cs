@@ -10,7 +10,7 @@
         {
 
         }
-
+        //New Method
         public List<string> GetNames()
         {
             var list = new List<string>();
